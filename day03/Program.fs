@@ -1,5 +1,4 @@
 open System
-open System.Collections
 open System.IO
 
 let readLines (path: string) =
