@@ -1,5 +1,4 @@
 open System.IO
-open System.Xml
 
 let readLines (path: string) =
     seq {
